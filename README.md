@@ -1,8 +1,11 @@
 ## Fixé
 
-Synopsis [editor on GitHub](https://github.com/enonces/fixe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+URL: http://{url_of_the_fiddle}/embedded/[{tabs}/[{style}]]/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe
+  style="width: 100%; height: 300px"
+  src="http://jsfiddle.net/zalun/NmudS/embedded/">
+</iframe>
 
 ### Markdown
 
